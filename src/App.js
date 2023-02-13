@@ -1,9 +1,10 @@
 import './App.css';
+import Home from './Pages/Home';
 
 function App() {
   return (
-    <div >
-      hello
+    <div className='font-onpoint' >
+      <Home></Home>
     </div>
   );
 }
