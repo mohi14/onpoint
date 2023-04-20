@@ -30,3 +30,13 @@
 .start-button:hover {
     box-shadow: inset 250px 0 0 0 white;
 }
+
+.links:active {
+    background-color: unset;
+}
+
+.links:hover {
+    background-color: unset;
+    border-radius: unset;
+    border-bottom: 1px solid #CEFF45;
+}
